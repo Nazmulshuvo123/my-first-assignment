@@ -248,3 +248,107 @@ h1,h2,p,.btn{
     margin-top: 20px;
     border-radius: 10px;
 }
+/* target container design */
+.current-target-container{
+    width: 90%;
+    height: 500px;
+    margin: 0 auto;
+    
+
+}
+.target-title-container{
+    width: 70%;
+    margin: 0 auto;
+    height: 150px;
+    
+}
+.target-title-container h3{
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 32px;
+    font-weight: 800;
+    line-height: 37px;
+    letter-spacing: 0%;
+    text-align: center;
+}
+.target-title-container p{
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 20px;
+    margin-top: 10px;
+    text-align: center;
+}
+
+.image-container{
+    width: 90%;
+    margin: 0 auto;
+    height: 320px;
+    margin-top: 20px;
+    align-items: center;
+    justify-content: center;
+    gap: 10px; 
+    display: flex;
+    
+}
+.image-container p{
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 20px;
+    padding-left: 20px;
+    text-align: left;
+}
+.image-container h4{
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 30px;
+    padding-left: 20px;
+    text-align: left;
+}
+
+.image-container button{
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 10px;
+    padding: 20px 50px;
+    background: none;
+    border: none;
+    text-decoration-line: underline;
+}
+.html-logo{
+    height: 320px;
+    width: auto;
+    background: rgba(255, 76, 30, 0.05);
+    border-radius: 16px;
+    
+}
+
+.css-logo{
+    height: 320px;
+    width: auto;
+    background: rgba(0, 76, 232, 0.05);
+    border-radius: 16px;
+    
+}
+.JavaScript-logo{
+    height: 320px;
+    width: auto;
+    background: rgba(255, 223, 0, 0.05);
+    border-radius: 16px;
+}
+.first-logo{
+    margin-left: 16px;
+}
+.second-logo{
+    margin-left: 16px;
+}
+.third-logo{
+    margin-left: 26px;
+}
